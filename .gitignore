@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+node_modules/
+.env
+=======
+node_modules/
+.env
+.env.local
+.netlify/
+>>>>>>> 8c6f0a5 (New Changes)
